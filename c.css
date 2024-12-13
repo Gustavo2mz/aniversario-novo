@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+#minha-div{
+    margin-left:20% ;
+    margin-right: 20%;
+    background-color: blue;
+    border: 10px solid rgba(3, 3, 123, 0.754);
+    border-radius: 80px;
+    height: 60px;
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+
+}
+#img{
+    margin-top: 40px;
+    height: 400px;
+    width: 300px;
+}
